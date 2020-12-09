@@ -1,0 +1,63 @@
+Vũ Tuấn, 20
+ 
+Lê Hải, 21
+ 
+Cao Hoàng, 18
+ 
+Vũ Diễm, 22
+ 
+Lương Hải, 19
+ 
+Vũ Tĩnh, 20
+ 
+Phan Oanh, 20
+ 
+Phạm Huyền, 20
+ 
+Cao Linh, 20
+ 
+Lương Tuấn, 21
+ 
+Ngô Tuấn, 18
+ 
+Vũ Linh, 20
+ 
+Tạ Anh, 21
+ 
+Vũ Khôi, 22
+ 
+Quách Diễm, 22
+ 
+Phùng Quân, 20
+ 
+Vũ Anh, 21
+ 
+Phạm Quang, 22
+ 
+Nguyễn Hải, 19
+ 
+Hà Hải, 18
+ 
+Vũ Anh, 18
+ 
+Nguyễn Oanh, 21
+ 
+Cao Khuê, 19
+ 
+Hà Tĩnh, 21
+ 
+Tạ Tĩnh, 22
+ 
+Vũ Huyền, 19
+ 
+Phùng Diễm, 19
+ 
+Quách Hải, 18
+ 
+Trần Anh, 18
+ 
+Lê Oanh, 21
+ 
+HELLO WORLD
+199.6789
+false
